@@ -1,4 +1,4 @@
-**#####** 🧠 Neuro-Symbolic Legal AI
+### 🧠 Neuro-Symbolic Legal AI
 
 A hybrid AI system that combines **natural language processing (NLP)** and **symbolic reasoning (Prolog)** to analyze legal documents and assess compliance. Built with **React + Tailwind** frontend and **Flask + PySwip** backend.
 
@@ -6,7 +6,7 @@ A hybrid AI system that combines **natural language processing (NLP)** and **sym
 
 ## 📸 Demo Screenshot
 
-![Final_Result](/Result/image-1.png)
+![Final_Result](/Result/Result1.png)
 
 ## 🚀 Features
 
